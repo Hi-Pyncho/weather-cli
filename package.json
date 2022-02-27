@@ -20,14 +20,12 @@
   ],
   "author": "Anton Mikaskin",
   "license": "ISC",
-  "homepage": "https://example.com",
   "repository": {
     "type": "git",
-    "url": "https://examplegit.com"
+    "url": "https://github.com/Hi-Pyncho/weather-cli"
   },
   "bugs": {
-    "url": "https://example.com",
-    "email": "example@gmail.com"
+    "email": "garrakombo@gmail.com"
   },
   "dependencies": {
     "axios": "^0.26.0",
